@@ -1,8 +1,10 @@
-# Getting Started
-## Prerequisites
+## Getting Started
+
+### Prerequisites
+
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
-## Installation
+### Installation
 
 ```shell
 rm -r $ZSH/custom
